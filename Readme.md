@@ -118,6 +118,10 @@ http://localhost:5173
 
 ## the architecture of project added in Docs.md file
 
+
+## UI OF TODO
+![Dashboard](images/Dashboard.png)
+![Mobile](images/Mobile.png)
 ## Notes for Reviewers
 
 * Backend and frontend are separated into `server` and `client`
