@@ -113,6 +113,8 @@ http://localhost:5173
 
 ---
 
+## the architecture of project added in Docs.md file
+
 ## Notes for Reviewers
 
 * Backend and frontend are separated into `server` and `client`
